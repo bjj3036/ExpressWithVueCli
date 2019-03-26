@@ -2,4 +2,9 @@
 
 [참고자료]
 http://vuejs.kr/2017/02/05/express-with-vue/
+
 https://blog.hanumoka.net/2018/11/13/vue-20181113-vue-how-to-make-vue-express-project/
+```
+express --view=jade backend #node js
+vue init webpack frontend   #vue
+```
